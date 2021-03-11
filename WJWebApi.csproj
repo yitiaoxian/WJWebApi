@@ -5,7 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\WJWebApiML.Model\WJWebApiML.Model.csproj" />
+    <PackageReference Include="Microsoft.Extensions.ML" Version="1.5.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WJWebApiML.Model\WJWebApiML.Model1.csproj" />
   </ItemGroup>
 
 </Project>

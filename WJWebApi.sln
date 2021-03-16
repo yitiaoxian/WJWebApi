@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WJWebApi", "WJWebApi.csproj", "{A27808F1-C5D1-452B-BB18-27082689B86C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WJWebApiML.Model1", "..\WJWebApiML.Model\WJWebApiML.Model1.csproj", "{E0F7A32A-BF24-46C5-B539-2D9DC80B8C34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WJDemoService", "..\WJWebApiML.Model\WJDemoService.csproj", "{E0F7A32A-BF24-46C5-B539-2D9DC80B8C34}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WJWebApiML.ConsoleApp1", "..\WJWebApiML.ConsoleApp\WJWebApiML.ConsoleApp1.csproj", "{EA2088CB-976D-449D-AAB9-67E790B73400}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WJDemo", "..\WJWebApiML.ConsoleApp\WJDemo.csproj", "{EA2088CB-976D-449D-AAB9-67E790B73400}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
